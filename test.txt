@@ -1,3 +1,2 @@
 Hello world
 print("Bye world")
-next new
